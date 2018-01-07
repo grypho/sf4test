@@ -3,7 +3,7 @@
     "description": "Test repository for SF4 Components",
     "homepage": "https://github.com/grypho/sf4test/",
     "keywords": ["sql", "highlight"],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "MIT",
     "type": "library",
     "require": {
