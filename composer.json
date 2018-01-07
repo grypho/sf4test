@@ -1,0 +1,26 @@
+{
+    "name": "grypho/sf4test",
+    "description": "Test repository for SF4 Components",
+    "homepage": "https://github.com/grypho/sf4test/",
+    "keywords": ["sql", "highlight"],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=5.2.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "authors": [
+        {
+            "name": "Carsten Schumann",
+            "email": "carsten.familie-schumann.info",
+            "homepage": "http://carsten.familie-schumann.info"
+        }
+    ],
+    "autoload": {
+        "classmap": ["lib"]
+    },
+    "bin": []
+}
